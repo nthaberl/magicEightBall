@@ -21,35 +21,27 @@ let eightBall = "";
 //not totally necessary to reassign eightball to output these answers but will do it to be thorough~
 if (randomNumber === 0){
     eightBall = "It is certain";
-    console.log("It is certain")
 }
-else if (randomNumber === 1){
-    eightBall = "It is certain";
-    console.log("It is decidedly so")
+if (randomNumber === 1){
+    eightBall = "It is decidedly so";
 }
-else if (randomNumber === 2){
-    eightBall = "It is certain";
-    console.log("Reply hazy try again")
+if (randomNumber === 2){
+    eightBall = "Reply hazy try again";
 }
-else if (randomNumber === 3){
-    eightBall = "It is certain";
-    console.log("Cannot predict now")
+if (randomNumber === 3){
+    eightBall = "Cannot predict now";
 }
-else if (randomNumber === 4){
-    eightBall = "It is certain";
-    console.log("Do not count on it")
+if (randomNumber === 4){
+    eightBall = "Do not count on it";
 }
-else if (randomNumber === 5){
-    eightBall = "It is certain";
-    console.log("My sources say no")
+if (randomNumber === 5){
+    eightBall = "My sources say no";
 }
-else if (randomNumber === 6){
-    eightBall = "It is certain";
-    console.log("Outlook not so good")
+if (randomNumber === 6){
+    eightBall = "Outlook not so good";
 }
-else if(randomNumber === 7){
-    eightBall = "It is certain";
-    console.log("Signs point to yes")
+if(randomNumber === 7){
+    eightBall = "Signs point to yes";
 }
 
 //Step 8
